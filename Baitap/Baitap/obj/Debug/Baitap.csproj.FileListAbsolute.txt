@@ -1,0 +1,12 @@
+C:\Users\Hoc vien\Desktop\Baitap\Baitap\bin\Debug\Baitap.exe.config
+C:\Users\Hoc vien\Desktop\Baitap\Baitap\bin\Debug\Baitap.exe
+C:\Users\Hoc vien\Desktop\Baitap\Baitap\bin\Debug\Baitap.pdb
+C:\Users\Hoc vien\Desktop\Baitap\Baitap\bin\Debug\nunit.framework.dll
+C:\Users\Hoc vien\Desktop\Baitap\Baitap\bin\Debug\SwiPlCs.dll
+C:\Users\Hoc vien\Desktop\Baitap\Baitap\bin\Debug\SwiPlCs.xml
+C:\Users\Hoc vien\Desktop\Baitap\Baitap\obj\Debug\Baitap.csprojResolveAssemblyReference.cache
+C:\Users\Hoc vien\Desktop\Baitap\Baitap\obj\Debug\Baitap.Properties.Resources.resources
+C:\Users\Hoc vien\Desktop\Baitap\Baitap\obj\Debug\Baitap.csproj.GenerateResource.Cache
+C:\Users\Hoc vien\Desktop\Baitap\Baitap\obj\Debug\Baitap.exe
+C:\Users\Hoc vien\Desktop\Baitap\Baitap\obj\Debug\Baitap.pdb
+C:\Users\Hoc vien\Desktop\Baitap\Baitap\obj\Debug\Baitap.Form1.resources
